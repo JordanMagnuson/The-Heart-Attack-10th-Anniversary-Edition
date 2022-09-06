@@ -72,7 +72,7 @@ if (!spr_start_button) {
 	if (global.is_touch_device) {
 		start_text = "TOUCH TO START";
 	}
-	draw_set_color(c_yellow);
+	//draw_set_color(c_yellow);
 	draw_text_transformed(xx, yy, start_text, global.gui_scale*h2_size, global.gui_scale*h2_size, 0);	
 	draw_set_color(c_white);
 	string_w = global.gui_scale*h2_size * string_width(start_text);
