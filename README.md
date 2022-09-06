@@ -114,6 +114,7 @@ http://itunes.apple.com/us/album/light-match-burn-it-slowly/id15063588
 To everyone who helped me test and refine this creation, including:
 Simon Braunstein
 Matthew Fisher
+John Knauss
 Stephen "increpare" Lavelle
 Karith Magnuson
 Tom Sauter
